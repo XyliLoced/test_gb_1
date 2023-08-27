@@ -9,6 +9,7 @@ asdfadfad
 
 # Test_txt
 
+```python
 import time
 from turtle import *
 
@@ -44,6 +45,7 @@ def draw_txt():
     time.sleep(1)
     pen.write("И немножно Python", font=("Montserrat", 14, "bold"))
 
+```
 
 Пробный код на калькулятор
 
