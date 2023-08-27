@@ -11,7 +11,7 @@ asdfadfad
 
 ```python
 import time
-from turtle import *
+``` from turtle import *
 
 pen = Turtle()
 pen.color('red')
