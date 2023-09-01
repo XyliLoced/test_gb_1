@@ -132,3 +132,12 @@ while not game_over:
  
 pygame.quit()
 quit()
+
+
+
+
+
+Git branch 
+Git clone
+Git checkout 
+Git push 
